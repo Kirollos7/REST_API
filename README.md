@@ -2,7 +2,7 @@
 
 
 
-# Create venv by using: python3 -m venv <env>
+ Create venv by using: python3 -m venv <env>
 ** How to run venv: source <env>/bin/activate
 ** How to stop venv: deactivate
 
